@@ -30,7 +30,7 @@ public class Bases_datos {
 			Bases_datos.Listamatriculacion_persona= (ArrayList<matriculacion_persona>) entrada.readObject();
 			
 		} catch (IOException | ClassNotFoundException e) {
-			System.out.println("Ocurrió un error al leer el producto! ... Comuníquese con TI.");
+			System.out.println("Ocurrió un error al leer el producto! ");
 		}
 		
 		
