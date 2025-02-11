@@ -19,7 +19,7 @@ public class Bases_datos {
 		System.out.println("Producto Grabado con Éxito!");
 			
 		} catch (IOException e) {
-			System.out.println("Ocurrió un error al grabar el producto! ... Comuníquese con TI.");
+			System.out.println("Ocurrió un error al grabar el producto! ");
 		}
 	
 	}
